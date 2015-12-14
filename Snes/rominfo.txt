@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: Super Mario World (E) (V1.0).smc Header: No
+SUPER MARIOWORLD          TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:PAL     BANK:Lo     CRC32:3C41070F
+                                        
